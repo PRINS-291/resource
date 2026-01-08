@@ -1,1 +1,26 @@
-没事 测试github的定位
+
+{
+  "name": "没事 测试github的定位",
+  "age": "原来如此 为什么我以前就没想到；光想着服务器了",
+  "isStudent": true,
+  "subjects": ["数学", "物理", "计算机科学"],
+  "address": {
+    "street": "北京市海淀区",
+    "city": "北京",
+    "postalCode": "100080"
+  },
+  "courses": [
+    {
+      "courseName": "Python 编程",
+      "credits": 3,
+      "instructor": "李老师"
+    },
+    {
+      "courseName": "数据结构",
+      "credits": 4,
+      "instructor": "张教授"
+    }
+  ],
+  "graduated": false
+}
+
